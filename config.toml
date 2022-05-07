@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hitomi-team.github.io'
 languageCode = 'en-us'
 title = 'Lorelei Labs'
 theme = "terminal"
