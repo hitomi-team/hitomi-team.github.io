@@ -10,6 +10,9 @@ paginate = 5
   showMenuItems = 3
   fullWidthTheme = false
   centerTheme = true
+  site_type = "website"
+  sitename = "Lorelei Labs"
+  description = "A group of advancing open source AI towards sustainability and freedom."
 
 [languages]
   [languages.en]
