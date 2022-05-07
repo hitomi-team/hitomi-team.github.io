@@ -1,6 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Lorelei Labs'
+theme = "themes/terminal"
 paginate = 5
 
 [params]
