@@ -8,7 +8,7 @@ author: "haru"
 
 ## TL;DR:
 
-The developers for Not Quite Nitro have a very misleading privacy policy that admits to their bot, Not Quite Nitro, storing sensitive information about users in the case of internal errors on their end without their knowledge. **We did not like their policy or practices, so we decided to make an open-source alternative.**
+The developers for Not Quite Nitro have a very misleading privacy policy that admits that their bot, Not Quite Nitro, stores sensitive information about users in the case of internal errors on their end without the user's knowledge. **We did not like their policy or practices, so we decided to make an open-source alternative.**
 
 ![An example of the devs' views on user privacy.](https://i.imgur.com/7oJLLst.png)
 
