@@ -8,7 +8,7 @@ Contact: You can email us at [anthony.mercurio@protonmail.com](mailto:anthony.me
 
 ## Access to your Content.
 
-We will only access the content that you voluntarily provide to us to provide our Services to your account. Your content will not be viewed by any agent or member of Lorelei Labs without explicit consent from yourself. In order to perform our services, we may need to access, transform, and transmit your content between Lorelei Labs and yourself.
+We will only access the content that you voluntarily make available to us in order to provide our Services to your account. Your content will not be viewed by any agent or member of Lorelei Labs without explicit consent from yourself. In order to perform our services, we may need to access, transform, and transmit your content between Lorelei Labs and yourself.
 
 ## Sharing with other Data Collectors.
 
